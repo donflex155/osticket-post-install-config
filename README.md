@@ -84,8 +84,31 @@ Admin → Manage → Help Topics → Add topics mapping to departments.
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1167" height="898" alt="image" src="https://github.com/user-attachments/assets/ae162c95-6752-4ff0-a288-92b23af79320" />
+
+
+<img width="1198" height="929" alt="image" src="https://github.com/user-attachments/assets/137a013e-eaa7-48b9-a9b9-c9112bbed029" />
+
+
+<img width="1191" height="921" alt="image" src="https://github.com/user-attachments/assets/f80110f4-fc3d-4e04-93f5-bb9a3c9587fd" /> 
+
+
+<img width="1190" height="901" alt="image" src="https://github.com/user-attachments/assets/2d01b6a0-ca4a-4f48-9b4c-3b99334e8ddd" />
+
+
+
+<img width="1188" height="826" alt="image" src="https://github.com/user-attachments/assets/f2af4359-93dc-4e80-8ab4-951ebf7f1238" /> 
+
+
+<img width="802" height="663" alt="image" src="https://github.com/user-attachments/assets/71663ecd-a671-4981-8ec2-e8c70d2b8af6" />
+
+
+<img width="809" height="530" alt="image" src="https://github.com/user-attachments/assets/a76665f1-4325-47ae-8b15-571dea2bb0af" />
+
+
+
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
