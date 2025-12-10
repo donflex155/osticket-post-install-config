@@ -121,6 +121,10 @@ Configure Ticket Forms and Fields, step by step guide: "Customize ticket forms a
 
 <img width="1002" height="890" alt="image" src="https://github.com/user-attachments/assets/193fc8d9-cec2-4803-9b38-54575b759ca2" />
 
+
+<img width="1203" height="633" alt="image" src="https://github.com/user-attachments/assets/8a8e84d9-788d-46b3-b245-c4d2c5d7d9bf" />
+
+
 </p>
 <p>
 
