@@ -134,19 +134,19 @@ Add Agents and Assign Roles Guide: Admin → Agents → Add new agents. Assign r
 Ensure permissions follow the least privilege principle.
 
 
-</p>
-<br />
+<img width="1201" height="567" alt="image" src="https://github.com/user-attachments/assets/b11ad424-48ae-44a1-b057-53206551608e" />
 
-<p>
-<img width="1203" height="849" alt="image" src="https://github.com/user-attachments/assets/ff32177a-7de7-4223-a8e5-8629c757a86c" />
 Standard1
 
 
-<img width="1201" height="820" alt="image" src="https://github.com/user-attachments/assets/ecb04aa5-096b-45f1-8493-056650d01fed" />
+<img width="1201" height="525" alt="image" src="https://github.com/user-attachments/assets/c260467d-2cef-46f6-a417-48512bd27bc6" />
+
 Urgent1
 
-<img width="1199" height="562" alt="image" src="https://github.com/user-attachments/assets/47021719-86ac-420b-93a7-86caae279b97" />
+<img width="1198" height="477" alt="image" src="https://github.com/user-attachments/assets/9e2b96b2-9005-45a4-aa3c-eee59e330c6e" />
+
 Urgent2
+
 
 
  Create three different SLA Plans: Admin → Manage → SLA Plans → Add New SLA Plan. For each SLA plan: Name: 1 Standard (48h) and 2 Urgent (8h). Description: short purpose and scope.
