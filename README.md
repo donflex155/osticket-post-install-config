@@ -28,7 +28,6 @@ After successfully installing osTicket, several post-installation steps are requ
 - Configure Ticket Forms and Fields 
 - Add Agents and Assign Roles
 - Configure Business Hours and SLA Policies
-- Customize Templates and Branding
 - Enable Required PHP Extensions
 - Backup & Maintenance
 - Monitor and Maintain
